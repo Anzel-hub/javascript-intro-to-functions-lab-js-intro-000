@@ -22,3 +22,4 @@ return ('I can\'t hear you!') ;
 } else if ('HELLO!' === string.toUpperCase){
 return ('YES INDEED!')
 }
+}
